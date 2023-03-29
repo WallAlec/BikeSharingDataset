@@ -1,6 +1,6 @@
 # Bike Sharing Demand Prediction
 
-This project aims to predict the hourly bike rental demand using the Bike Sharing dataset from the UCI Machine Learning Repository.
+This project aims to predict the hourly bike rental demand using the Bike Sharing dataset from the UCI Machine Learning Repository. Open the python notebook to view results.
 
 ## Dataset
 
